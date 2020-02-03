@@ -2,15 +2,20 @@
 
 01-30-20 
 
-Início
+InÃ­cio
 
 1 - Criacao da classe conta
     package  br.com.javaparaweb.financeiro.conta
-    class Conta
+    class Conta.
+    
 2 - hibernate.cfg.xml 
-    <mapping class="br.com.javaparaweb.financeiro.conta.Conta"/>
-3 - Criação da interface ContaDAO
-4 - Alteração da classe DAOFactory
-    adicionado o metodo criarContaDAO()
+    <mapping class="br.com.javaparaweb.financeiro.conta.Conta"/>.
+    
+3 - CriaÃ§Ã£o da interface ContaDAO.
+
+4 - AlteraÃ§Ã£o da classe DAOFactory
+    adicionado o metodo criarContaDAO().
+    
 5 - Construcao da camada de regra de negocios
-    classe ContaRN
+    classe ContaRN.
+    
